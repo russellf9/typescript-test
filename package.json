@@ -11,6 +11,10 @@
     "javascript"
   ],
   "author": "russell@factornine.co.uk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/russellf9/typescript-test"
+  },
   "license": "MIT",
   "devDependencies": {
     "typescript": "^1.8.10"
